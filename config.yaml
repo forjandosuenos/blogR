@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: 'http://forjandosuenos.netlify.app' # use the link you just created
 languageCode: en-us
 title: Forjando Sueños
 theme: hugo-lithium
