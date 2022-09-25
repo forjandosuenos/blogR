@@ -14,7 +14,7 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: About
+    - name: Carta de presentación
       url: /about/
     - name: Facebook
       url: https://www.facebook.com/profile.php?id=100077973579548
