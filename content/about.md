@@ -1,10 +1,9 @@
 ---
+title: "Carta de presentación"
 date: "25 de septiembre 2022"
-title: Carta de presentación
 ---
 
-![alt text](images/portadaCartaPresentacion.png)
-
+![](/./about_files/portadaCartaPresentacion.png)
 ## Los sueños son posibles si los forjo todos los días
 
 La Fundación Forjando Sueños es una organización social naciente, sin fines de lucro,  apolítica y sin discriminación étnica ni religiosa.
@@ -19,5 +18,5 @@ Con estudios y dedicando el tiempo libre al deporte es como nuestros campeones s
 
 Un cordial saludo,
 
-Econ. Carlos Zambrano
+Econ. Carlos Zambrano\
 **PRESIDENTE PROVISIONAL**
