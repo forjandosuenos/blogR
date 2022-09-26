@@ -7,9 +7,11 @@ title: Carta de presentación
 
 ## Los sueños son posibles si los forjo todos los días
 
-La Fundación Forjando Sueños en la Niñez y Adolescencia nace en enero de 2022 con el objetivo de brindar una alternativa a los niños, niñas y adolescentes de escasos recursos económicos y en estado de vulnerabilidad, para que, a través del deporte y educación, tengan nuevas oportunidades y puedan mejorar sus condiciones de vida.
+La Fundación Forjando Sueños es una organización social naciente, sin fines de lucro,  apolítica y sin discriminación étnica ni religiosa.
 
-La Fundación Forjando Sueños en la Niñez y Adolescencia es una organización social naciente, sin fines de lucro, apolítica y sin discriminación racial o religiosa. Todos los cargos directivos son ad honorem. El deporte es el lazo que nos une como familia.
+Debido a la problemática actual que afronta nuestra provincia Esmeraldas y que de una u otra forma se transfiere a  nuestro cantón Muisne, en donde los más afectados son los niños, niñas y adolescentes. Nosotros hemos visto que desde el deporte podemos hacer grandes cosas para nuestros niños. 
+
+En este contexto, los cofundadores, padrinos, madrinas y con el apoyo de los padres de familia estamos trabajando conjuntamente ad honorem para que los niños puedan dedicarse todas las mañanas y las tardes a entrenar fútbol. De esta forma enseñamos disciplina, carácter, compañerismo y sobre todo mantenemos ocupados a los niños en actividades productivas que les servirán a futuro.
 
 Este bonito proyecto es posible gracias a los cofundadores, padrinos y madrinas que nos hacen llegar su granito de arena cada mes, con ello adquirimos implementos deportivos y damos una pequeña suma de dinero al profesor que entrena a los niños.
 
@@ -18,5 +20,4 @@ Con estudios y dedicando el tiempo libre al deporte es como nuestros campeones s
 Un cordial saludo,
 
 Econ. Carlos Zambrano
-
 **PRESIDENTE PROVISIONAL**

@@ -1,0 +1,19 @@
+---
+title: "Saludos Fiestas de Muisne 2022"
+author: "Carlos Zambrano"
+date: '2022-09-25'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Muisne, 25 de septiembre 2022
+
+Sr. 
+Tairon Quintero Vera
+ALCALDE DE MUISNE
+
+De mis consideraciones
+
