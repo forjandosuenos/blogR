@@ -3,7 +3,7 @@ date: "25 de septiembre 2022"
 title: Carta de presentación
 ---
 
-![](images/portadaCartaPresentacion.png)
+![alt text](images/portadaCartaPresentacion.png)
 
 ## Los sueños son posibles si los forjo todos los días
 
