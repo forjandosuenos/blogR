@@ -1,0 +1,110 @@
+---
+title: "Propuesta para el fomento deportivo en Muisne"
+author: "Forjando Sueños"
+date: '2022-09-29'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introducción
+
+El presente documento contiene una propuesta social y deportiva para apoyar a los
+niños, niñas y adolescentes de la isla de Muisne en su desarrollo personal a través del
+fútbol. Confiamos en el alto potencial deportivo, pues toda la provincia se caracteriza
+por ser la “cuna inagotable de grandes deportistas”, ya que siempre hemos tenido
+buenos referentes en la Selección Nacional de Fútbol y en las demás disciplinas
+deportivas.
+
+## Problemática de Muisne
+
+Muisne se ha caracterizado por su modelo de producción primario. La mayor parte de
+la población se dedica a la pesca, a la agricultura y a la ganadería. El turismo no ha
+tomado el protagonismo que se esperaría tener a pesar de contar con hermosas
+playas, manglares y ríos. Sin embargo, las afectaciones al cantón no dejan de mermar a
+lo largo de su historia incluyendo las condiciones de vida de su población, siendo las
+niñas, niños y adolescentes los más afectados.
+
+Entre las principales causas mencionamos las siguientes:
+
+1. Administraciones en el GAD deficientes.
+2. Deterioro de la economía debido al terremoto del 16A.
+3. Altas tasas de deforestación del ecosistema del manglar para dar preferencia a
+la industria camaronera.
+4. Poca infraestructura turística.
+5. Escasas fuentes de trabajo.
+6. Poco acceso a la educación superior.
+7. Pocas unidades policiales.
+8. Altas tasas de embarazo adolescente.
+9. Alcoholismo y drogadicción desde temprana edad.
+
+## Propuesta
+
+La propuesta se enfoca en la creación de una fundación deportiva autofinanciada por
+sus padrinos y madrinas.
+
+## Objetivo de la fundación deportiva
+
+La Fundación tendrá como objetivo procurar el bienestar en niñas, niños y
+adolescentes por medio de proyectos canalizados a través del deporte que les
+permitan disfrutar de experiencias beneficiosas en su desarrollo académico y
+deportivo, para así convertirse en miembros positivos en su comunidad.
+
+## Características de la fundación deportiva
+
+La Fundación tendrá las siguientes características:
+
+1. Buscar y consolidar a padrinos y madrinas (gente comprometida y
+responsable, con altos valores éticos y morales que puedan contribuir con
+distintos recursos). Descartamos desde el inicio todo acto de corrupción.
+2. La principal fuente de ingresos de la fundación será el aporte mensual de USD 10 que permitirán la realización de las actividades más
+adelante detalladas.
+3. Transparencia y buena gestión de los recursos.
+4. La membresía es abierta, se definirán varios tipos de socios (fundadores, activos, adherentes, honorarios y vitalicios)
+5. Una vez constituida y en funcionamiento la fundación deberá buscar
+patrocinios de negocios locales, marcas auspiciantes, mecenas, etc.
+6. En la fundación se tratarán solo temas concernientes a su objeto social, por lo
+que se hace caso omiso (y hasta penalizaciones) a temas religiosos y políticos.
+Ningún padrino o madrina podrá a nombre de la fundación realizar
+proselitismo político ni campañas religiosas.
+7. Fomentar constantemente la integración de nuevos miembros.
+
+
+## Actividades a realizar
+
+La Fundación fomentará las siguientes actividades:
+
+1. Crear condiciones propicias que permitan realizar entrenamientos diarios.
+2. Organizar torneos - campeonatos.
+3. Organizar agasajos en los días festivos (navidad, día del niño, entre otros).
+5. Tratar de proveer alimentación, uniformes, zapatos deportivos, tareas
+dirigidas, atención médica y psicológica de acuerdo a los recursos disponibles.
+6. Dar reconocimiento público a los padrinos y madrinas.
+
+
+## Referentes
+
+• Fundación Golazo Callejero: https://www.deporte.gob.ec/wp-content/uploads/downloads/2021/10/rdo_0417_aprobar_el_estatuto_y_otorgar_personeria_juridica_de_la_fundacion__golazo_callejero_.pdf
+
+• Fundación Sembrando Esperanza: https://www.deporte.gob.ec/wp-content/uploads/downloads/2021/10/tatuto_y_otorgar_personeria_juridica_de_la_fundacion__sembrando_esperanza_0330230001633974473.pdf
+
+• Fundación del Deporte para el Ecuador (FUNPORTEC):
+https://www.deporte.gob.ec/wp-content/uploads/downloads/2021/09/acuerdo_0378_aprobar_el_estatuto_y_otorgar_personeria_juridica_de.pdf
+
+• Fundación Marathon: 
+https://www.deporte.gob.ec/wp-content/uploads/downloads/2021/07/acuerdo_ministerial_nro._0338-signed.pdf
+
+• Fundación para el Desarrollo del Deporte Estudiantil (FDDE):
+https://www.deporte.gob.ec/wp-content/uploads/downloads/2019/08/acuerdo_06460642128001566413485.pdf
+
+## Bibliografía
+
+• Ley del Deporte: 
+https://www.deporte.gob.ec/wp-content/uploads/downloads/2015/03/Ley-del-Deporte.pdf
+
+• Trámites ciudadanos: 
+https://www.gob.ec/md/tramites/aprobacion-estatuto-otorgamiento-personeria-juridica-organizaciones-sociales-parte-ministerio-deporte
+
+
